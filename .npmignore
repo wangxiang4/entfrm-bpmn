@@ -1,0 +1,8 @@
+**/.*
+*.iml
+node_modules
+lib
+resources
+tasks
+test
+rollup.config.js
