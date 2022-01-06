@@ -1,7 +1,6 @@
 **/.*
 *.iml
 node_modules
-lib
 resources
 tasks
 test

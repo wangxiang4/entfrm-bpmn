@@ -1,6 +1,6 @@
 {
   "name": "entfrm-bpmn",
-  "version": "8.6.5",
+  "version": "8.6.6",
   "description": "entfrm工具包和网络建模器",
   "scripts": {
     "all": "run-s lint test distro test:distro",
